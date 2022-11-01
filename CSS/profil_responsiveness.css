@@ -1,0 +1,41 @@
+@media (max-width : 910) {
+    .container { 
+        width : 800px
+    }
+}
+
+@media (max-width: 810px) {
+    .container {
+       width:700; 
+    }
+    h1 { 
+        font-size:35px;
+     }
+    .profile-pic { 
+        width: 100px;
+        height: 100px;
+    }
+}
+
+
+@media (max-width: 810px) {
+    .certifications {
+      display: block;
+      align-items: center;
+    }
+    .sous-card3 {
+      width:unset;
+      }
+      .skills {
+        display: block;
+        align-items: center;
+      }
+    .sous-card{
+        width:unset;
+    } 
+
+    p {
+        font-size: 16px;
+    }
+    }
+  

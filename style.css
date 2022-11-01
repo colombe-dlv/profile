@@ -1,0 +1,72 @@
+
+
+/*a { 
+    text-decoration : none ;
+    color : white ;
+    font-size : 24px ;
+    background-color : rgb(3, 23, 120) ;
+    border-radius : 10px ; 
+    padding : 10px 20px ; } */
+
+
+body { 
+    background : rgb(179, 199, 238) ;
+    font-size : 20px ;
+    font-family : 'Open Sans', sans-serif;
+}
+
+li {
+    margin : 20px ; 
+    list-style: none ;
+}
+
+
+i {
+    font-size: 50px;
+    color: blue;
+    text-align : left ;
+    margin: 10px;
+}
+
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.card{
+    background-color: white;
+    margin : 0 auto;
+    border :rgb(179, 199, 238) ;
+    margin: 32px 0 ;
+    padding : 32px 24px;
+    border-radius: 10px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3)
+}
+
+.profile-pic{ 
+    border-radius: 50% ;
+}
+
+
+
+.link-linkedin {
+    text-decoration : none ;
+    text-align : left;
+}
+
+.link-linkedin i:hover {
+   color:aqua; 
+}
+
+.inline-content {
+    display: flex;
+    align-items: center;
+}
+.inline-content p{margin-left: 20px;}
+
+
+
+.center {
+    text-align: center;
+}

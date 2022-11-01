@@ -1,0 +1,43 @@
+ 
+.link-linkedin {
+    text-decoration : none ;
+    text-align : left;
+}
+.link-linkedin i:hover {
+   color:aqua; 
+}
+
+.link-instagram{
+    text-decoration : none ;
+    text-align : left;
+}
+.link-instagram i:hover {
+   color:aqua; 
+}
+.link-ehl{
+    text-decoration : none ;
+    text-align : left;
+}
+
+.link-ehl i:hover {
+    color:aqua; 
+ }
+
+.link-email{
+    text-decoration : none ;
+    text-align : left;
+}
+
+.link-email i:hover {
+    color:aqua; 
+ }
+
+ .link-github{
+    text-decoration : none ;
+    text-align : left;
+}
+
+.link-github i:hover {
+    color:aqua; 
+ }
+
